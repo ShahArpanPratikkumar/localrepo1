@@ -1,1 +1,35 @@
-a
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favicon class</title>
+    <link rel="shortcut icon" href="image2.jpg"
+    type="image/jpg">
+    <style>
+        p{
+            color:rgb(47, 255, 0);
+            background-color: rgb(81, 7, 255);
+            font-size: 20px;
+        }
+        img{
+            width:200px;
+            font:200px;
+border: 10px solid black;
+            border-radius: 1000px;
+            border-radius: %;
+        }
+    </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+     Dolor molestiae molestias dolorum laborum consectetur sint tenetur commodi eaque suscipit? 
+     Aspernatur!
+    </p>
+    <p>
+       hello guys
+    </p>
+    <img src="image2.jpg" alt="">
+
+</body>
+</html>
+my name arpan
